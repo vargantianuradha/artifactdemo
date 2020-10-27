@@ -22,12 +22,12 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-33-127.ap-south-1.compute.internal-releases</name>
-        <url>http://15.206.69.53:8081/artifactory/maven-local-repo</url>
+        <url>http://15.206.69.53:8081/artifactory/libs-snapshot</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-33-127.ap-south-1.compute.internal-snapshots</name>
-        <url>http://15.206.69.53:8081/artifactory/maven-local-repo</url>
+        <url>http://15.206.69.53:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
   <dependencies>
