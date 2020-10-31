@@ -22,12 +22,12 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-33-127.ap-south-1.compute.internal-releases</name>
-        <url>http://13.233.142.222:8081/artifactory/libs-release</url>
+        <url>http://http://65.0.45.126:8081/artifactory/libs-snapshot</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-33-127.ap-south-1.compute.internal-snapshots</name>
-        <url>http://13.233.142.222:8081/artifactory/libs-snapshot</url>
+        <url>http://65.0.45.126:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
   <dependencies>
