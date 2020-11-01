@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello To The World of JFrog</h2>
+<h2>Hello To The World of JFrog2</h2>
 </body>
 </html>
