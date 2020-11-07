@@ -6,7 +6,7 @@
 
   <groupId>com.mycompany.training</groupId>
   <artifactId>flyhighwebapp</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>flyhighwebapp Maven Webapp</name>
@@ -19,15 +19,15 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
   <distributionManagement>
-    <repository>
+        <repository>
         <id>central</id>
-        <name>ip-172-31-33-127.ap-south-1.compute.internal-releases</name>
-        <url>http://ec2-65-0-99-120.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-snapshot</url>
+        <name>ip-172-31-56-242.ec2.internal-releases</name>
+        <url>http://ec2-54-236-43-186.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-33-127.ap-south-1.compute.internal-snapshots</name>
-        <url>http://ec2-65-0-99-120.ap-south-1.compute.amazonaws.com/artifactory/libs-snapshot</url>
+        <name>ip-172-31-56-242.ec2.internal-snapshots</name>
+        <url>http://ec2-54-236-43-186.compute-1.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
   <dependencies>
