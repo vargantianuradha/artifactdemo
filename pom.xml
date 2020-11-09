@@ -22,12 +22,12 @@
         <repository>
         <id>central</id>
         <name>ip-172-31-56-242.ec2.internal-releases</name>
-        <url>http://ec2-54-236-43-186.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
+        <url>http://ec2-35-153-57-191.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-56-242.ec2.internal-snapshots</name>
-        <url>http://ec2-54-236-43-186.compute-1.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
+        <url>http://ec2-35-153-57-191.compute-1.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
   <dependencies>
