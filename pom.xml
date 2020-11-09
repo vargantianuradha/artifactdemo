@@ -19,15 +19,15 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
   <distributionManagement>
-        <repository>
+    <repository>
         <id>central</id>
-        <name>ip-172-31-56-242.ec2.internal-releases</name>
-        <url>http://ec2-35-153-57-191.compute-1.amazonaws.com:8081/artifactory/libs-release-local</url>
+        <name>ip-172-31-60-158.ec2.internal-releases</name>
+        <url>http://52.3.244.118:8081/artifactory/libs-snapshot-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-56-242.ec2.internal-snapshots</name>
-        <url>http://ec2-35-153-57-191.compute-1.amazonaws.com:8081/artifactory/libs-snapshot-local</url>
+        <name>ip-172-31-60-158.ec2.internal-snapshots</name>
+        <url>http://52.3.244.118:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
   <dependencies>
