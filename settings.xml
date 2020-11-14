@@ -22,13 +22,13 @@
           </snapshots>
           <id>central</id>
           <name>libs-release-dev</name>
-          <url>http://52.3.244.118:8081/artifactory/libs-release-dev</url>
+          <url>http://13.233.18.221:8082/artifactory/libs-release-dev</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
           <name>lid-devrelease</name>
-          <url>http://52.3.244.118:8081/artifactory/lid-devrelease</url>
+          <url>http://13.233.18.221:8082/artifactory/lid-devrelease</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -38,13 +38,13 @@
           </snapshots>
           <id>central</id>
           <name>libs-release-dev</name>
-          <url>http://52.3.244.118:8081/artifactory/libs-release-dev</url>
+          <url>http://13.233.18.221:8082/artifactory/libs-release-dev</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>lid-devrelease</name>
-          <url>http://52.3.244.118:8081/artifactory/lid-devrelease</url>
+          <url>http://13.233.18.221:8082/artifactory/lid-devrelease</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
