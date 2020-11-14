@@ -22,12 +22,12 @@
         <repository>
         <id>central</id>
         <name>ip-172-31-56-242.ec2.internal-releases</name>
-        <url>http://52.91.146.229:8082/artifactory/libs-release-local</url>
+        <url>http://13.233.18.221:8082/artifactory/libs-release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-56-242.ec2.internal-snapshots</name>
-        <url>http://52.91.146.229:8082/artifactory/libs-snapshot-local</url>
+        <url>http://13.233.18.221:8082/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
   <dependencies>
